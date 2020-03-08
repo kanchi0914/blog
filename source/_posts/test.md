@@ -12,3 +12,8 @@ tags:
 
 <img src="/images/test/animals.jpg" alt="animals" style="zoom:50%;" />
 
+
+
+
+
+![animals](../images/test/animals-1583642380054.jpg)
