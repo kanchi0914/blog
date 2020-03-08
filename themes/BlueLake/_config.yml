@@ -129,15 +129,9 @@ busuanzi: true ## If you want to use Busuanzi page views please set the value to
 about:
   photo_url: ## Your photo e.g. http://cdn.chaooo.top/blog/themeauthor.jpg
   items:
-  - label: email
-    url: ## Your email with mailto: e.g.  mailto:zhenggchaoo@gmail.com
-    title: ## Your email e.g.  zhenggchaoo@gmail.com
   - label: github
-    url: ## Your github'url e.g.  https://github.com/chaooo
+    url: https://github.com/kanchi0914
     title: ## Your github'name e.g.  chaooo
-  - label: weibo
-    url: ## Your weibo's url e.g.  http://weibo.com/zhengchaooo
-    title: ## Your weibo's name e.g.  秋过冬漫长
 # - label: twitter
 #   url:
 #   title:
@@ -147,9 +141,5 @@ about:
 
 # Links widget. Empty links will hide widget.
 links:
-  - title: site-name1
-    url: http://www.example1.com/
-  - title: site-name2
-    url: http://www.example2.com/
-  - title: site-name3
-    url: http://www.example3.com/
+  - title: メインブログ
+    url: https://kanchi0914.hatenablog.com/
