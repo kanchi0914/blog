@@ -8,7 +8,7 @@ tags:
 
 Material-UIの拡張パッケージであるmaterial-tableは表の中でアイテムの追加・編集・削除、また検索を行うことができて、導入するだけで簡単に使えるため、簡単な商品検索ページなどの実装には便利そうです。
 
-![image-20200313221940577](../images/react-table/image-20200313221940577.png)
+![image-20200313221940577](/images/react-table/image-20200313221940577.png)
 
 https://github.com/mbrn/material-table
 
