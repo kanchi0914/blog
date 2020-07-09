@@ -1,18 +1,12 @@
 ---
-title: react-spa-history
+title: React+Material-UIで作るフォームのテンプレ的なやつ
 date: 2020-03-24 00:54:54
 tags:
  - React.js
  - react-router
 ---
 
-
-
-# React+Material-UIで作るフォームのテンプレ的なやつ
-
-![スクリーンショット 2020-03-24 1.45.20](/images/react-spa-history/スクリーンショット 2020-03-24 1.45.20.png)
-
-
+![2020-03-24.png](/images/react-spa-history/2020-03-24.png)
 
 Reactのコンポーネントは結構お約束というか決まり事みたいなのが多く、いちいち調べるのが面倒なのと雛形があれば使いまわせそうということでフォーム入力の形でテンプレ化してみました。公式通り (https://ja.reactjs.org/docs/forms.html) に入力項目ごとにstateのプロパティを設定して、name要素を定義して‥‥とやっているのですが、これかなり面倒な気がするのですがそういうものなのでしょうか‥‥入力内容のバリデーションは調べたんですがライブラリ的にしっくりくる感じのが少なく、結局`handleInputChange`内で逐一チェックするのが楽なような気がします。
 
