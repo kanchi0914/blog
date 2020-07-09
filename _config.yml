@@ -8,12 +8,12 @@ subtitle: 'サブブログです。日記的な感じで書いていきます'
 description: 'サブブログです。日記的な感じで書いていきます'
 keywords:
 author: kanchi0914
-language: en
-timezone: ''
+language: ja
+timezone: Asia/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://kanchi0914.netlify.app
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
